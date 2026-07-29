@@ -1,0 +1,75 @@
+Mods: {
+	MistStar: {
+		// DisplayName: Mist Star
+		Description: A fantasy mod about mist and stars
+
+		Items: {
+			Redlion: {
+				DisplayName: Braised Lion Head
+				Tooltip:
+					'''
+					Look, it's a braised lion head!
+					Braised lion head is super delicious!
+					Wait, there's a note inside, what does it say?
+					"Fabric is awesome!"
+					'''
+			}
+
+			Last: {
+				DisplayName: Spirit Fragment
+				Tooltip: The aura of the universe swirls within
+			}
+
+			DragonSpring: {
+				DisplayName: Dragon Spring
+				Tooltip: '''"A foolish dragon descends from the sky"'''
+			}
+
+			ImmortalRail: {
+				Tooltip:
+					'''
+					"Pitiful fish out of water, this will be your first and last time seeing this great rail."
+					Enemies in this field can only take damage from this field.
+					'''
+				DisplayName: Immortal Rail
+			}
+
+			ButterflyLoveFlowers: {
+				Tooltip: ""
+				DisplayName: ButterflyLoveFlowers
+			}
+
+			FTHJ: {
+				Tooltip: ""
+				DisplayName: F T H J
+			}
+
+			FangTianHalberd: {
+				DisplayName: Fang Tian Halberd
+				Tooltip: ""
+			}
+
+			调试武器: {
+				DisplayName: 调试武器
+				Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			DS.DisplayName: Dragon Spring Sword Qi
+			DS1.DisplayName: Dragon Spring Dragon Soul
+			Rail2.DisplayName: Rail2
+			Rail.DisplayName: Rail
+			Butterfiy.DisplayName: Butterfly
+			MagicCircle.DisplayName: Magic Circle
+			DSMagicCircle.DisplayName: D S Magic Circle
+			FTHJ2.DisplayName: F T H J2
+			FTHJ1.DisplayName: F T H J1
+			FangTianBlue.DisplayName: Fang Tian Blue
+			FangTianRed.DisplayName: Fang Tian Red
+			调试弹幕2.DisplayName: 调试弹幕2
+			调试弹幕1.DisplayName: 调试弹幕1
+			FangTianPurple.DisplayName: FangTianPruple
+		}
+	}
+}

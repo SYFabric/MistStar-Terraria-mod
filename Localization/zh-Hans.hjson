@@ -1,0 +1,79 @@
+Mods: {
+	MistStar: {
+		// DisplayName: Mist Star
+		Description: A fantasy mod about mist and stars
+
+		Items: {
+			Redlion: {
+				DisplayName: 红烧狮子头
+				Tooltip:
+					'''
+					看，是红烧狮子头哦
+					红烧狮子头超级美味
+					等等，里面还有张纸条，上面写了啥
+					"小布牛逼！"
+					'''
+			}
+
+			Last: {
+				DisplayName: 雾星之核
+				Tooltip: 雾雨织月，星辉若梦
+			}
+
+			DragonSpring: {
+				DisplayName: 无双龙泉
+				Tooltip:
+					'''
+					“天罚”
+					右键召唤龙魂图腾并释放龙魂爆破，这会给这把武器带来一小段时间的硬直
+					'''
+			}
+
+			ImmortalRail: {
+				Tooltip:
+					'''
+					"可悲的离水之鱼，这将是你第一次也是最后一次见到这伟大的铁轨"
+					处于该领域的敌怪只能受到来自该领域的伤害
+					'''
+				DisplayName: 不朽铁轨
+			}
+
+			ButterflyLoveFlowers: {
+				Tooltip: 枝上柳绵吹又少，天涯何处无芳草
+				DisplayName: 无双蝶恋花
+			}
+
+			FTHJ: {
+				// Tooltip: ""
+				// DisplayName: F T H J
+			}
+
+			FangTianHalberd: {
+				DisplayName: 无双方天戟
+				Tooltip: 你说的，可是往日
+			}
+
+			调试武器: {
+				// DisplayName: 调试武器
+				// Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			DS.DisplayName: 龙魂
+			DS1.DisplayName: 龙泉猛斩
+			// Rail2.DisplayName: Rail2
+			Rail.DisplayName: 不朽铁轨
+			// Butterfiy.DisplayName: Butterfly
+			// MagicCircle.DisplayName: Magic Circle
+			DSMagicCircle.DisplayName: 龙魂图腾
+			// FTHJ2.DisplayName: F T H J2
+			// FTHJ1.DisplayName: F T H J1
+			FangTianBlue.DisplayName: 方天激光
+			FangTianRed.DisplayName: 方天炮
+			// 调试弹幕2.DisplayName: 调试弹幕2
+			// 调试弹幕1.DisplayName: 调试弹幕1
+			// FangTianPurple.DisplayName: FangTianPruple
+		}
+	}
+}

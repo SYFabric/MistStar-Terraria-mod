@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Remove="Content\Items\Ranged\FangTianHalberd.csno" />
+	  <None Remove="Content\Projectiles\DSMagicCircle.csbak" />
+	  <None Remove="Content\Projectiles\FangTianBlue.csno" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Content\新文件夹\" />
+	</ItemGroup>
+
+	<!-- References -->
+
+</Project>

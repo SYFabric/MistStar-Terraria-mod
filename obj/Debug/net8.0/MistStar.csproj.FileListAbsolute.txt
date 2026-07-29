@@ -1,0 +1,12 @@
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\obj\Debug\net8.0\MistStar.csproj.AssemblyReference.cache
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\obj\Debug\net8.0\MistStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\obj\Debug\net8.0\MistStar.AssemblyInfoInputs.cache
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\obj\Debug\net8.0\MistStar.AssemblyInfo.cs
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\obj\Debug\net8.0\MistStar.csproj.CoreCompileInputs.cache
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\bin\Debug\net8.0\MistStar.deps.json
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\bin\Debug\net8.0\MistStar.dll
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\bin\Debug\net8.0\MistStar.pdb
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\obj\Debug\net8.0\MistStar.dll
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\obj\Debug\net8.0\refint\MistStar.dll
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\obj\Debug\net8.0\MistStar.pdb
+C:\Users\月\Documents\My Games\Terraria\tModLoader\ModSources\MistStar\obj\Debug\net8.0\ref\MistStar.dll
